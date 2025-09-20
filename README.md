@@ -1,4 +1,4 @@
-Hi, I’m @RaffaeleBerzoini, a MSc student in Information Bioengineering at Politecnico di Milano
+Hi, I’m @RaffaeleBerzoini, a Biomedical Engineer working as a Software Engineer
 
 
 <!---
